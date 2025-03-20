@@ -11,6 +11,7 @@ Este proyecto realiza un análisis exploratorio y predictivo de las ventas de vi
 
 Este proyecto usa Google Sheets
 
+https://docs.google.com/spreadsheets/d/1sB4LMGknEuwXik4lzrs9QpO3b5zPbU-apMbp8OdTcjc/edit?usp=sharing
 
 -📊 Resultados y Conclusiones
 Los datos reflejan una clara evolución en la industria del videojuego, con un cambio en las preferencias del consumidor a lo largo del tiempo. Mientras que en los años 80 y 90 predominaban los juegos de plataformas y arcade, las décadas más recientes han visto un auge en los títulos de mundo abierto y multijugador en línea. Además, la consolidación de grandes empresas ha influido en la concentración del mercado como por ejemplo Nintendo, que lidera en todas las regiones y esto podria deberse a que es una compañía centrada en un tipo de mercado más familiar y accesible a mayor público.
