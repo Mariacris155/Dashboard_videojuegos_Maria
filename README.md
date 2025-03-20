@@ -2,9 +2,9 @@
 Este proyecto realiza un análisis exploratorio y predictivo de las ventas de videojuegos de distintas compañías y plataformas y en diferentes mercados, así como su influencia. El objetivo es identificar tendencias, patrones y realizar predicciones basadas en datos históricos usando técnicas de modelado estadístico.
 
 -🗂️ Estructura del Proyecto
-├── data/ # Datos crudos y procesados
-├── results/ # Gráficos y archivos de resultados
-├── README.md # Descripción del proyecto
+├── data/ vgsales
+├── results/ Informe_analisis_videojuegos
+├── README.md
 
 
 -🛠️ Instalación y Requisitos
