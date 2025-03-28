@@ -25,6 +25,6 @@ Monitorear la evolución del mercado para anticiparse a cambios en las preferenc
 -🔄 Próximos Pasos
 Recolectar más datos de consumo y quizá añadir estudios sobre eSports o servicios de suscripción para un análisis más completo
 
-✒️ Autores
+✒️ Autor
 - Maria Cristina Martinez Gutierrez
 - [@Mariacris155](https://github.com/Mariacris155)
